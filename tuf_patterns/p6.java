@@ -1,5 +1,5 @@
 package tuf_patterns;
-
+// Written By Divyanh Mishra
 public class p6 {
     public static void main(String[] args){
         for (int row = 0; row < 5; row++){
