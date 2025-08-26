@@ -1,5 +1,10 @@
 package tuf_patterns;
 
+// * * * * * 
+// * * * * 
+// * * * 
+// * * 
+// * 
 public class p5 {
     public static void main(String[] args){
         for (int row = 0; row < 5; row++){
